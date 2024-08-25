@@ -1,0 +1,1 @@
+#This is to host and serve an background image for lichess, so that I can have a solid colour background, so that I can remove background in OBS
